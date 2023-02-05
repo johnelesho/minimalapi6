@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitHub\\MinimalApi\\DevNot2021.csproj": {}
+    "C:\\Users\\ayode\\RiderProjects\\MinimalApiNet6\\DevNot2021.csproj": {}
   },
   "projects": {
-    "C:\\GitHub\\MinimalApi\\DevNot2021.csproj": {
+    "C:\\Users\\ayode\\RiderProjects\\MinimalApiNet6\\DevNot2021.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHub\\MinimalApi\\DevNot2021.csproj",
+        "projectUniqueName": "C:\\Users\\ayode\\RiderProjects\\MinimalApiNet6\\DevNot2021.csproj",
         "projectName": "DevNot2021",
-        "projectPath": "C:\\GitHub\\MinimalApi\\DevNot2021.csproj",
-        "packagesPath": "C:\\Users\\borakasmer\\.nuget\\packages\\",
-        "outputPath": "C:\\GitHub\\MinimalApi\\obj\\",
+        "projectPath": "C:\\Users\\ayode\\RiderProjects\\MinimalApiNet6\\DevNot2021.csproj",
+        "packagesPath": "C:\\Users\\ayode\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ayode\\RiderProjects\\MinimalApiNet6\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\borakasmer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ayode\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -77,7 +82,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -89,7 +95,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
